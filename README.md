@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.82901%2Fnemar.on006370-blue)](https://doi.org/10.82901/nemar.on006370)
+
 Each trial began with a space key press, followed by a 
 fixation dot for 500–650 ms. Then, 2 or 6 lateral objects appeared 
 for 1250 ms. A central cue indicated which object(s) to memorize. 
