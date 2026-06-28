@@ -1,0 +1,27 @@
+{
+  "version": "2.0",
+  "dataset_id": "on006370",
+  "source": "openneuro",
+  "source_id": "ds006370",
+  "title": "Memory Reactivation Levels Remain Unaffected by Anticipated Interference Experiment 2 Dataset",
+  "authors": {
+    "X": {}
+  },
+  "license": "CC0",
+  "dataset_type": "raw",
+  "related_identifiers": [
+    {
+      "identifier": "10.18112/openneuro.ds006370.v1.0.1",
+      "identifier_type": "DOI",
+      "relation_type": "IsIdenticalTo"
+    }
+  ],
+  "pipeline_stage": "seeded",
+  "bids_version": "v1.2.1",
+  "recording_modality": [
+    "eeg"
+  ],
+  "datatypes": [
+    "eeg"
+  ]
+}
